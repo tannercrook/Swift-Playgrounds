@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FunFacts/RandomColors.swift"
+            timestampString = "453092468.170908"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "changeColor()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_85E4679B496BE95B46910B811FD2FD66_func0"
+                  moduleName = "FunFacts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/Documents/School%20Stuff/2015/Spring2015/iOS%20Dev/Treehouse%20Excercises/FunFacts/FunFacts/RandomColors.swift"
+                  timestampString = "453089686.488042"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FunFacts.instance.unsafeMutableAddressor : FunFacts.RandomColors"
+                  moduleName = "FunFacts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/Documents/School%20Stuff/2015/Spring2015/iOS%20Dev/Treehouse%20Excercises/FunFacts/FunFacts/RandomColors.swift"
+                  timestampString = "453089686.489269"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "22">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
